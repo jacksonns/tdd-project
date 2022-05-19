@@ -1,0 +1,5 @@
+Os testes de unidade verificam os módulos individuais
+do sistema, enquanto os testes funcionais verificam as
+funcionalidades do sistema. Além disso, os testes de unidade
+são feitos com base na perspectiva do programador, enquanto os 
+testes funcionais são feitos com base na perspectiva do usuário.
