@@ -1,0 +1,6 @@
+Em suma, escrevemos um teste funcional. Caso ele não
+passe ou caso precise de refatoração, escrevemos um código 
+simples (mínimo) com um teste de unidade. Caso esse teste passe, 
+verificamos a necessidade de refatoração, modificamos o código e 
+executamos novamente o teste; esse ciclo se repete enquanto o teste 
+falhar ou precisar ser refatorado.
